@@ -28,3 +28,7 @@ Understanding normal network traffic patterns helps in detecting anomalies, susp
 
 ## Learning Outcome
 This project strengthened my understanding of networking fundamentals, packet-level analysis, and the role of traffic monitoring in cybersecurity.
+
+
+Month 1 Progress Log
+- Studied OSI model and documented notes
