@@ -1,0 +1,37 @@
+VPN (Virtual Private Network) Basics
+
+Date - 14th March, 2026
+
+Objective - To understand how VPNs provide secure communication over public networks.
+
+What is a VPN?
+- A Virtual Private Network (VPN) creates a secure, encrypted tunnel between a user’s device and a remote network over the internet.
+- It allows safe data transmission even on untrusted networks such as public Wi-Fi.
+
+How VPN Works
+- Data from the user is encrypted before being sent over the internet.
+- The VPN server decrypts the data and forwards it to the destination.
+- Responses follow the same encrypted path back to the user.
+
+Types of VPN
+
+Remote Access VPN
+- Used by individual users to securely connect to a private network.
+- Common in corporate environments.
+
+Site-to-Site VPN
+- Connects two or more networks securely over the internet.
+- Often used by organizations with multiple branch offices.
+
+VPN Protocols (Examples)
+- IPsec
+- OpenVPN
+- WireGuard
+
+Security Benefits
+- Encrypts network traffic
+- Protects sensitive data from interception
+- Hides user’s real IP address
+- Helps maintain confidentiality and integrity
+
+Reflection - Understanding VPN technology is essential for secure remote communication and modern network security practices.
